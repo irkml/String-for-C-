@@ -50,6 +50,9 @@ if(myName.StartsWith("a") == true) {
 }
 
 
+ var newmyname= myname.ToCharArray();
+ Console.WriteLine(newmyname.Reverse());
+
 if(myName.EndsWith("R")==true) {
     Console.Write("hmm, are you a genius");
 } else if ( myName.EndsWith("ar")==false) {

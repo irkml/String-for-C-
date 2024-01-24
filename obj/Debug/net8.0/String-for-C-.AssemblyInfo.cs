@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("String-for-C-")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+727497d4db22fabf7159cf22d3669ce74e9bac54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1729b8ed3c4c423ee19d8f72d6604cdb7db892a")]
 [assembly: System.Reflection.AssemblyProductAttribute("String-for-C-")]
 [assembly: System.Reflection.AssemblyTitleAttribute("String-for-C-")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
