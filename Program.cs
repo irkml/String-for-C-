@@ -47,12 +47,12 @@ Console.WriteLine(sentencepractice.Replace("Azhar", "full stack software develop
 
 
 //Sample program utilizing all the concepts.
-Console.WriteLine("Azhar     "); //simple print
-string myName = "Azhar";
-Console.Write($"My name is {myName.TrimEnd()}  and it has {myName.Length} characters. Jokes it is Actually 5 Characters.");
-Console.WriteLine($" It can also be written in uppercase like this {myname.Trim().ToUpper()} and now I will share a bit about my history");
-string history = $"As I said my name is {myname.Trim()} and it is made up of {myname.Length} letters. {newSentencepractice.Replace("My name is", "My job description is")}";
-Console.WriteLine(history);
+//Console.WriteLine("Azhar     "); //simple print
+//string myName = "Azhar";
+//Console.Write($"My name is {myName.TrimEnd()}  and it has {myName.Length} characters. Jokes it is Actually 5 Characters.");
+//Console.WriteLine($" It can also be written in uppercase like this {myname.Trim().ToUpper()} and now I will share a bit about my history");
+//string history = $"As I said my name is {myname.Trim()} and it is made up of {myname.Length} letters. {newSentencepractice.Replace("My name is", "My job description is")}";
+//Console.WriteLine(history);
 
 
 
